@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Environment variable file
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+.env.local
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Miscellaneous
+*.log
+*.swp
